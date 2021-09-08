@@ -1,0 +1,10 @@
+= redmine_time_entry_textarea
+
+INSTALL
+
+1) restart redmine (apache restart)
+
+UNINSTALL
+
+1) remove directory with plugin
+2) restart redmine (apache restart)
